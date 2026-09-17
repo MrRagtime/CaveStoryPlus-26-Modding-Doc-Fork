@@ -529,6 +529,22 @@ Compute cosine.
 
 
 
+# `GetDifficulty`
+
+## Description
+
+Gets the game's current difficulty.
+
+## Parameters
+
+None.
+
+## Return Value
+
+(Integer) The difficulty level (see `Constants/DIFFICULTY.md`).
+
+
+
 # `GetFramePositionX`
 
 ## Description
@@ -962,7 +978,7 @@ Spawns a "caret" (particle effect).
 
 ## Return Value
 
-Index of created caret in the `gCaret` array (0-based).
+(Integer) Index of created caret in the `gCaret` array (0-based).
 
 ## See Also
 
@@ -1120,7 +1136,7 @@ responds to, the other.
 
 ## Return Value
 
-Index of created NPC in the `gNPC` array (0-based).
+(Integer) Index of created NPC in the `gNPC` array (0-based).
 
 ## See Also
 
