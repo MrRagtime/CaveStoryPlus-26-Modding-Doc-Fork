@@ -1,0 +1,8 @@
+{
+	"save_slot_identifier" : "MCSM",
+	"full_name" : "My Cave Story Mod",
+	"description" : "Try my new Mod out!",
+	"difficulties" : true,
+	"requirement" : "none",
+	"requirement_number" : 0
+}
