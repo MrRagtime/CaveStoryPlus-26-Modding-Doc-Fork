@@ -1,0 +1,17 @@
+{
+	"__comment": "Caret07 ミサイルスモーク (small smoke) | Booster 0.8, & 2.0 uses these.",
+	"view_left": 4,
+	"view_top": 4,
+	"glow": true,
+	"light": {
+		"color": {
+			"red": 255,
+			"green": 255,
+			"blue": 255,
+			"alpha": 255
+		},
+		"radius": 0,
+		"directional": false,
+		"player": false
+	}
+}

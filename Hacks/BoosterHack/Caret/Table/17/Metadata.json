@@ -1,0 +1,17 @@
+{
+	"__comment": "Caret17 ミサイルスモーク (small smoke) | 2.0 uses this.",
+	"view_left": 4,
+	"view_top": 4,
+	"glow": true,
+	"light": {
+		"color": {
+			"red": 255,
+			"green": 255,
+			"blue": 255,
+			"alpha": 255
+		},
+		"radius": 0,
+		"directional": false,
+		"player": false
+	}
+}
