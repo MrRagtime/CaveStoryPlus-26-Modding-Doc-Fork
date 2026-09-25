@@ -1,4 +1,5 @@
 1. Open up Clownacy's Booster Lab Fork for Cave Story 2026
+- https://github.com/Clownacy/boosters-lab-csplus-2026
 
 2. Open your Map
 
