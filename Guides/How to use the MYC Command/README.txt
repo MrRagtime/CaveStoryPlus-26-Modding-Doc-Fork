@@ -13,7 +13,7 @@
 6 (Toroko), 7 (Team 7 Robot), 8 (Clone Curly), 9 and anything after that is just Quote
 
 These are the Characters Skins you can unlock by just playing the Base Game
-You can change the textures in "NpcRegu.(x)"
+You can change the textures in "MyChar.(x)"
 
 6. Remember even when saving and reloading that the Player will reset its skin so the only way for the Player to keep these skins
 when reloading/dying, is to set a "H/V_trigger" with Flags 'Not Affected by Tile44(Makes Vertical Triggers work anywhere)',
