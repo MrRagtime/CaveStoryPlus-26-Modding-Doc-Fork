@@ -9,10 +9,11 @@
 
 5. Your list of Characters you can set:
 
-<MYC	1	#---	MY Character	Changes the PC's character.	0 (Quote), 1 (Quote), 2 (Curly), 3 (King), 4 (Sue)
+<MYC	1	#---	MY Character	Changes the PC's character.	0 (Quote), 1 (Quote), 2 (Curly), 3 (King), 4 (Sue), 5 (Booster),
+6 (Toroko), 7 (Team 7 Robot), 8 (Clone Curly), 9 and anything after that is just Quote
 
-These are the Characters on the Main Menu you can unlock by getting a Rank in "Sanctuary Time Attack" Mode
-You can change the textures in "NpcRegu.(x)".
+These are the Characters Skins you can unlock by just playing the Base Game
+You can change the textures in "NpcRegu.(x)"
 
 6. Remember even when saving and reloading that the Player will reset its skin so the only way for the Player to keep these skins
 when reloading/dying, is to set a "H/V_trigger" with Flags 'Not Affected by Tile44(Makes Vertical Triggers work anywhere)',
