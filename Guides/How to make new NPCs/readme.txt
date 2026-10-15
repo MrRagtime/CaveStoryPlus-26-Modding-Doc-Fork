@@ -35,8 +35,9 @@ Leaving it at its Default Values should be fine though!!!
 
 11. At the very bottom of this list will be your new NPC you just created. Here you can change its Display, Hitbox, Flags, & Stats.
 
-12. Sadly, Cave Story+ 2026 does not support the ability to create a new Tileset, so you will have to use the "MyChar.pbm" option
-instead for new NPC Textures. It uses "MyChar01.1" for that. If you want to have a new NPC with Classic Graphics, you can rezize
-your texture(s) to use "Nearest Neighbor" Resampling.
+12. Sadly, Cave Story+ 2026 does not support the ability to create a new Tileset, so you will have to use the "MyChar.pbm" or other as options
+instead for new NPC Textures. "MyChar.pbm" uses "MyChar01.1" for that route. I highly recommend using "MyChar.pbm" for beginners but later on, please use "NpcRegu.pbm" or "NpcSym.pbm" as those are always drawn as well
+and are just better to use in general... [Like having Remaster and Classic Textures for your NPC(s)]. If you want to have a new NPC with Classic Graphics in your "MyChar.pbm", you can rezize
+your texture(s) to use "Nearest Neighbor" Resampling. Same goes for the reverse if you want bigger sprites to be shrunk down for Classic Graphics.
 
 13. Makee whatever changes you want for this new NPC in the "Code.lua" or in the "Metadata.json".
