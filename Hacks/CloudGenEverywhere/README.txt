@@ -1,0 +1,2 @@
+The Cloud Texture credit everyone else on besides me. Everything else please credit me (Dr. Ragtime), Studio Pixel, & Nicalis, Inc..
+Npc IDs are 384(cloud) and 385(cloudgen). Change them if you want in the lua files.
