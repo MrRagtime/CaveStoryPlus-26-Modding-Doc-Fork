@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "EggX",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Sand",
+  "boss": "Hell",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "Sand Pit - B3",
+  "camera": "normal"
+}
