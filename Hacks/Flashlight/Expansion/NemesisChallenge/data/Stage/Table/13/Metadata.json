@@ -1,0 +1,12 @@
+{
+  "parts": "Oside",
+  "map": "Start",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Cemet",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "camera": "vertical only"
+}

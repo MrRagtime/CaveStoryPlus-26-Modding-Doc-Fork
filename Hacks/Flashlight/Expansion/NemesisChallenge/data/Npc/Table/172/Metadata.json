@@ -1,0 +1,50 @@
+{
+  "bits": {
+    "BlockMyChar": false,
+    "ThrowEBlock": false,
+    "BlockBullet": false,
+    "ThrowBlock": false,
+    "BoundMyChar": false,
+    "BanishDamage": false,
+    "BlockMyChar2": false,
+    "DamageSide": false,
+    "EventHit": false,
+    "EventBreak": false,
+    "EventAlive": false,
+    "FlagAlive": false,
+    "DirectRight": false,
+    "EventCheck": false,
+    "FlagDead": false,
+    "ViewDamage": false
+  },
+  "life": 50,
+  "surf": "SURF_NPC_BOSS",
+  "destroy_voice": 0,
+  "hit_voice": 34,
+  "size": 3,
+  "exp": 10,
+  "damage": 5,
+  "hit": {
+    "front": 4,
+    "top": 12,
+    "back": 4,
+    "bottom": 12
+  },
+  "view": {
+    "front": 8,
+    "top": 16,
+    "back": 8,
+    "bottom": 16
+  },
+  "light": {
+    "color": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255
+    },
+    "radius": 0,
+    "directional": false,
+    "player": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parts": "Weed",
+  "map": "3DExt0",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Drafty Cave",
+  "camera": "vertical only"
+}

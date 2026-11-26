@@ -1,0 +1,13 @@
+{
+  "parts": "White",
+  "map": "3DExt1",
+  "bkType": 7,
+  "back": "BkFog",
+  "back_water": "BkFog",
+  "npc": "Maze",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Bottom of the Island",
+  "camera": "normal"
+}

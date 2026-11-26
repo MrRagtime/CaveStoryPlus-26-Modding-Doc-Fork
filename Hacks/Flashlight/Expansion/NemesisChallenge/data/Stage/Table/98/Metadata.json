@@ -1,0 +1,13 @@
+{
+  "parts": "Store",
+  "map": "3DExt3",
+  "bkType": 7,
+  "back": "BkFog",
+  "back_water": "BkFog",
+  "npc": "Kaze",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Laboratory?",
+  "camera": "normal"
+}
